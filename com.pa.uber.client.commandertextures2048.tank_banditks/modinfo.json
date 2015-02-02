@@ -1,0 +1,17 @@
+{
+    "context" : "client",
+    "identifier" : "com.pa.uber.client.commandertextures2048.tank_banditks",
+    "display_name" : "High Resolution Commander: Banditks",
+    "description" : "Increases the resolution of the Banditks commander textures to 2048x2048. WARNING: Not recommended for systems with less than 2GB of VRAM. Large download size.",
+    "author" : "Uber Entertainment",
+    "version" : "1.0",
+    "signature" : "not yet implemented",
+    "priority": 100,
+    "enabled" : true,
+    "category": [
+        "Texture"
+    ],
+    "date": "2015/01/30",
+    "build": "77443",
+    "icon": "http://pa-mods.com/comm_icons/img_tank_banditks.png"
+}
